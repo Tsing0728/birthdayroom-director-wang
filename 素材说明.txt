@@ -1,0 +1,22 @@
+猫叫录音
+cat meow short，skymary，Freesound，CC0。剪辑并转码为 MP3。
+https://freesound.org/people/skymary/sounds/412017/
+
+环境声
+Birds chirping in a garden，Akum20，Wikimedia Commons，CC0。轻度滤波并转码为 MP3。
+https://commons.wikimedia.org/wiki/File:Birds_chirping_in_a_garden.ogg
+
+唱片音轨
+record.mp3 从用户提供的录屏中提取，用于本地试玩。
+
+贺卡字体
+联网加载参考网站所用的 Birthday Hand 字体。
+https://kerry-kee.github.io/Brithday-room/fonts/cheese/font.css
+
+实录短音效（CC0，剪辑并调整音量）
+打板：Julien_Matthey，https://freesound.org/s/484323/
+开柜：FOSSarts，https://freesound.org/s/740190/
+木地板脚步：Kenney Impact Sounds，5 个单步样本，https://kenney.nl/assets/impact-sounds
+胶片快门：cabled_mess，35mm 胶片单反录音，https://freesound.org/s/338220/
+倒水：Rudmer_Rotteveel，https://freesound.org/s/700352/
+咀嚼：Rudmer_Rotteveel，https://freesound.org/s/364924/
